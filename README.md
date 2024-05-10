@@ -2,7 +2,7 @@
 
 This list features reputable tech companies embracing remote work culture, catering to a global audience. These firms are well-funded or profitable with over 50 employees, mainly focusing on software development roles. We've excluded companies limiting their hiring to only select rich countries. [rich countries](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita)
 
-**⚡ Do you need help in Mobile Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)! <sub><sup>(or just move on to the list; just thought I'd put it out there)</sup></sub>
+**⚡ Do you need help in Mobile Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)! <sub><sup>(or just move on to the list)</sup></sub>
 
 ## The list
 
