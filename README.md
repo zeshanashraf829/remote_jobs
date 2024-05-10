@@ -1,16 +1,12 @@
-# Established remote companies (hiring globally)
+# Remote companies (hiring globally)
 
-A curated list of established remote/distributed/virtual tech companies. The general idea is to include only established tech companies for which a significant portion of the workforce works remotely. *Established* means that each company is either well-funded or profitable with at least 50 employees, and *tech* means that they have more than a handful of software development roles. To make this list more useful to a global audience, companies that limit their hiring of engineers to a small set of [rich countries](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita) are no longer included.
+This list features reputable tech companies embracing remote work culture, catering to a global audience. These firms are well-funded or profitable with over 50 employees, mainly focusing on software development roles. We've excluded companies limiting their hiring to only select rich countries. [rich countries](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)_per_capita)
 
-Pull requests are welcome. Please keep the list in alphabetical order.
-
-_Background:_ I started this list back in 2015 as a way of finding companies I may want to work with. This turned out well, as I started working remotely as a data scientist in 2017. With remote work becoming mainstream since 2020, I've narrowed down the list to focus on companies that hire globally. You can [visit my website](https://yanirseroussi.com/) to read some of [my reflections on remote data science](https://yanirseroussi.com/2018/11/03/reflections-on-remote-data-science-work/). You can also check out [this video of a talk I gave on a day in the life of a remote data scientist](https://www.youtube.com/watch?v=5qbVEEtgWcY). TL;DR: Remote work is awesome! :)
-
-**⚡ Do you need help implementing data science & AI solutions?** Check out my [remote consulting services](https://yanirseroussi.com/consult/)! <sub><sup>(or just move on to the list; just thought I'd put it out there)</sup></sub>
+**⚡ Do you need help in Mobile Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)! <sub><sup>(or just move on to the list; just thought I'd put it out there)</sup></sub>
 
 ## The list
 
-Company                                           | Business/products                        | Tech stack/skills                              | Globally-competitive compensation?   | Job page & other links
+Company                                           | Business/products                        | Tech stack/skills                              | Globally-competitive compensation?   | Career page & other links
 ------------------------------------------------- | -----------------------------            | ----------------------------                   | ------------------------------------ | ----------------------
 [10up](https://10up.com/)                         | Web consulting                           | WordPress, PHP, Node, Web, React               | ✗                                    | :keyboard: [Jobs](https://10up.com/careers/)<br>:door: [Glassdoor](https://www.glassdoor.com.au/Overview/Working-at-10Up-EI_IE775906.11,15.htm)
 [37signals](https://37signals.com)                  | Collaboration tools                      | Ruby, Web                                      | ✓                                    | :keyboard: [Jobs](https://37signals.com/jobs)
@@ -93,24 +89,18 @@ Company                                           | Business/products           
 [Zyte](https://zyte.com/)           | Scraping as a service                    | Python, Web                                    | ✗                                    | :keyboard: [Jobs](https://zyte.com/jobs/)<br>:door: [Glassdoor](https://www.glassdoor.com/Reviews/Zyte-Reviews-E929046.htm)
 
 Notes:
-* *Web* covers the usual front-end skills, *Mobile* usually means iOS and Android, and *DevOps* is listed for companies where this is one of the main focus areas.
-* Globally-competitive compensation means that the company doesn't use remote workers as a source of cheap labour. For compensation to be globally competitive, the company should offer packages that are comparable to market rates in major tech hubs.
-* **[✉️ You can subscribe to job alerts by companies from this list on Job Dispatch](https://www.jobdispatch.co/job-collections/remote-first)**.
+* Under *Web*, you'll find front-end skills. *Mobile* usually means iOS and Android expertise. And *DevOps* is mentioned for companies focusing heavily on it.
+* Globally-competitive compensation means the company doesn't see remote workers as cheap labor. It should offer pay packages similar to those in big tech cities to attract top talent.
+* **[✉️ Stay updated on job opportunities with companies from this list by subscribing to alerts on Job Dispatch.](https://www.jobdispatch.co/job-collections/remote-first)**.
 
-## Other dynamic lists
+## Other dynamic lists for remote jobs
 
 * [Awesome Remote Job (markdown file of remote working resources)](https://github.com/lukasz-madon/awesome-remote-job)
 * [List of Startups with distributed teams, remote staff & multiple offices (Google Sheet)](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit)
 * [Work Remote Company List (less detailed Google Sheet)](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit)
 
-## Static lists and articles
 
-* FlexJobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/) | [125 Virtual Companies That Embrace Remote Working (2016)](https://www.flexjobs.com/blog/post/virtual-companies-that-embrace-remote-working/)
-* [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](https://staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
-* [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
-* [Remote Only](https://www.remoteonly.org/): Manifesto, tips, company list, and more
-
-## Remote job search websites
+## Remote job search engines
 
 * [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
 * [FlexJobs](https://www.flexjobs.com/)
@@ -126,4 +116,4 @@ Notes:
 * [WeWorkRemotely](https://weworkremotely.com/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
 
-*Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should have more traffic than most of the above sites.
+*Note:* There are tons of remote job sites out there, with new ones popping up all the time. This list is just a glimpse. If you're thinking of adding one, make sure it's got more visitors than most of the ones listed above.
