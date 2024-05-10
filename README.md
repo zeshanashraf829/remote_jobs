@@ -7,9 +7,6 @@ This list features reputable tech companies embracing remote work culture, cater
 **⚡Don't forget to give us a star on GitHub if you found our repository useful!⚡**
 
 
-
-**Do you need help in Android Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)! <sub><sup>(or just move on to the list)</sup></sub>
-
 ## The list
 
 Company                                           | Business/products                        | Tech stack/skills                              | Globally-competitive compensation?   | Career page & other links
@@ -123,5 +120,7 @@ Notes:
 * [Working Nomads](http://www.workingnomads.co/jobs)
 
 *Note:* There are tons of remote job sites out there, with new ones popping up all the time. This list is just a glimpse. If you're thinking of adding one, make sure it's got more visitors than most of the ones listed above.
+
+**Do you need help in Android Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)!
 
 **⚡Don't forget to give us a star on GitHub if you found our repository useful!⚡**
