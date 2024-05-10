@@ -8,7 +8,7 @@ This list features reputable tech companies embracing remote work culture, cater
 
 
 
-**⚡ Do you need help in Android Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)! <sub><sup>(or just move on to the list)</sup></sub>
+**Do you need help in Android Application Developement?** Check out my [profile](https://linktr.ee/ranazeshanashraf)! <sub><sup>(or just move on to the list)</sup></sub>
 
 ## The list
 
